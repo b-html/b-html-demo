@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html
+  @lang ja
+  <head
+    </meta
+      @charset utf-8
+    <title
+      b-html demo
+    </link
+      @rel stylesheet
+      @type text/css
+      @href /index.css
+  <body
+    <div
+      @id app
+    <script
+      @src bundle.js

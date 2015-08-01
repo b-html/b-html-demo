@@ -1,0 +1,8 @@
+<div
+  @class app
+  <textarea
+    @class bhtml
+    @v-model bHtml
+  <div
+    @class compiled
+    @v-text html
