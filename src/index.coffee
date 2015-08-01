@@ -9,7 +9,7 @@ new Vue
   el: '#app'
   data: ->
     bHtml: '''
-      <!DOCTYPE html>
+      ><!DOCTYPE html>
       <html
         @lang en
         <head
