@@ -1,8 +1,24 @@
 <div
   @class app
-  <textarea
-    @class bhtml
-    @v-model bHtml
+  <div
+    @class source
+    <header
+      <h1
+        @class title
+        b-html
+    <div
+      @class content
+      <textarea
+        @class code
+        @v-model bHtml
   <div
     @class compiled
-    @v-text html
+    <header
+      <h1
+        @class title
+        HTML
+    <div
+      @class content
+      <div
+        @class code
+        @v-text html
