@@ -9,7 +9,7 @@
     </link
       @rel stylesheet
       @type text/css
-      @href /index.css
+      @href ./index.css
   <body
     <div
       @id app
