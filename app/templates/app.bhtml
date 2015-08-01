@@ -1,5 +1,25 @@
 <div
   @class app
+  <header
+    @class app-header
+    <h1
+      @class title
+      <a
+        @href https://github.com/b-html/b-html
+        b-html
+    <div
+      @class nav
+      <ul
+        <li
+          <a
+            @href https://github.com/b-html/b-html#syntax-reference
+            @target _blank
+            Syntax
+        <li
+          <a
+            @href https://github.com/b-html/b-html-demo
+            @target _blank
+            GitHub
   <div
     @class source
     <header
