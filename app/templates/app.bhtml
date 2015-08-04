@@ -37,6 +37,11 @@
       <h1
         @class title
         HTML
+      <label
+        </input
+          @v-model demo
+          @type checkbox
+        demo
     <div
       @class content
       <div

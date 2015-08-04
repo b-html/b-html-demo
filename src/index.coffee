@@ -26,10 +26,11 @@ new Vue
               @href https://github.com/b-html/b-html
               b-html/b-html
     '''
+    demo: true
   computed:
     html: ->
       try
-        bHtml @bHtml
+        bHtml @bHtml, { @demo }
       catch e
         '(ERROR)'
   template: appTemplate
