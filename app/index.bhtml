@@ -5,7 +5,7 @@
     </meta
       @charset utf-8
     <title
-      b-html 0.6.0 demo
+      b-html demo
     </link
       @rel stylesheet
       @type text/css

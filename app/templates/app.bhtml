@@ -6,7 +6,7 @@
       @class title
       <a
         @href https://github.com/b-html/b-html
-         b-html 0.6.0 demo
+        b-html 0.7.0 demo
     <div
       @class nav
       <ul
