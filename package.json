@@ -11,7 +11,7 @@
     "url": "https://github.com/bouzuya/b-html-demo/issues"
   },
   "dependencies": {
-    "b-html": "^0.7.0",
+    "b-html": "^0.8.0",
     "vue": "^0.12.8"
   },
   "devDependencies": {
